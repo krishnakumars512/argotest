@@ -43,7 +43,7 @@ metadata:
 spec:
   ingressClassName: nginx       # modern way
   rules:
-  - host: test1.example.com
+  - host: test3.example.com
     http:
       paths:
       - path: /
